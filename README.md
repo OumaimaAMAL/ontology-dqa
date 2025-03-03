@@ -1,1 +1,1 @@
-# ontology-dqa
+# DQA : Data Quality Assessment Ontology
